@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads tracker",
+
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "money_scrimba_imresizer.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

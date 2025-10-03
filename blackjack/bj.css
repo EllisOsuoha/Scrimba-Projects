@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+    background-image: url(eyestetix-studio-m0EzHtexapU-unsplash.jpg);
+    background-size: cover;
+    font-weight: bold;
+}   
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+#message-el {
+    font-style: italic;
+}
+#sum-text {
+    color: black;
+}
+button {
+    width: 300px;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+button:hover {
+    background-color: blanchedalmond;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

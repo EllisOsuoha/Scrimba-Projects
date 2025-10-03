@@ -1,0 +1,32 @@
+body {
+    margin: 0 ;
+    padding: 0;
+}
+.container {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+img {
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#input-el {
+    padding: 20px 20px;
+    color: #432000;
+    background: #d0d6de;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+#add-btn {
+    padding: 20px 20px;
+    color: #fff;
+    background: #a44153;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
